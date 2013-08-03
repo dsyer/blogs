@@ -1,0 +1,10 @@
+*~
+.#*
+#*
+*#
+tmp/
+*.odp
+*.ppt*
+*.pdf
+_site
+decks/
